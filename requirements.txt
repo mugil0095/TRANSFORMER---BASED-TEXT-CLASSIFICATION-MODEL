@@ -1,0 +1,9 @@
+transformers
+torch
+pandas
+scikit-learn
+flask
+mlflow
+smtplib 
+fastapi
+pydantic
