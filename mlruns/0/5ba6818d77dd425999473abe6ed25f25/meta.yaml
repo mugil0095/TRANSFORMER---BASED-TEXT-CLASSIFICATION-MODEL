@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilamu/Downloads/sentiment%20analysis/mlruns/0/5ba6818d77dd425999473abe6ed25f25/artifacts
+end_time: 1726395945374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ba6818d77dd425999473abe6ed25f25
+run_name: nervous-wasp-575
+run_uuid: 5ba6818d77dd425999473abe6ed25f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726395929040
+status: 3
+tags: []
+user_id: ilamu

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilamu/Downloads/sentiment%20analysis/mlruns/0/853de785c554404a88bd981cff8062b6/artifacts
+end_time: 1726394413495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 853de785c554404a88bd981cff8062b6
+run_name: agreeable-eel-75
+run_uuid: 853de785c554404a88bd981cff8062b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726394239134
+status: 3
+tags: []
+user_id: ilamu

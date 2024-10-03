@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilamu/Downloads/sentiment%20analysis/mlruns/0/a94b261b5d2a4c17b7a874734f9c1f1d/artifacts
+end_time: 1726404941938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a94b261b5d2a4c17b7a874734f9c1f1d
+run_name: zealous-yak-627
+run_uuid: a94b261b5d2a4c17b7a874734f9c1f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726404897573
+status: 3
+tags: []
+user_id: ilamu

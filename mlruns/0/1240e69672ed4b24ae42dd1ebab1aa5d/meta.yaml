@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilamu/Downloads/sentiment%20analysis/mlruns/0/1240e69672ed4b24ae42dd1ebab1aa5d/artifacts
+end_time: 1726396095080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1240e69672ed4b24ae42dd1ebab1aa5d
+run_name: youthful-goose-549
+run_uuid: 1240e69672ed4b24ae42dd1ebab1aa5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726396052290
+status: 3
+tags: []
+user_id: ilamu

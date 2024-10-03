@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilamu/Downloads/sentiment%20analysis/mlruns/0/5efcf9a7016b431cb9b412524a1783c9/artifacts
+end_time: 1726394163844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5efcf9a7016b431cb9b412524a1783c9
+run_name: zealous-eel-12
+run_uuid: 5efcf9a7016b431cb9b412524a1783c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726394121223
+status: 3
+tags: []
+user_id: ilamu
